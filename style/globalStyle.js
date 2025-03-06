@@ -71,7 +71,6 @@ const bloglistCardAuthorStyle = `inline text-sm font-semibold text-black mr-2`;
 const bloglistCardDateStyle = `text-graylv3 text-sm inline-block font-normal`;
 
 
-
 // 검색창 스타일
 const searchInputStyle = `absolute top-20 right-8 w-[220px] h-10 rounded-md border border-gray-300 pl-2 text-base font-bold text-gray-600 outline-none box-border transition duration-300 ease-in-out shadow-none bg-white bg-clip-padding`;
 
